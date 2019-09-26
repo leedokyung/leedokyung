@@ -1,0 +1,2 @@
+# leedokyung
+Leedok's Repository
